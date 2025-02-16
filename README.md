@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @padictoria
 - 👀 I’m interested in Longevity, community, body awareness, and physical movement 
-- 🌱 I’m currently learning how to use media to help the Longevity field, how to tell better stories
-- 💞️ I’m looking to collaborate on projects that need graphic design, web design, illustrations, gathering people and exercise together
+- 🌱 I’m currently building pop-up cities in the Longevity field
 - 📫 How to reach me: TG @victoriaforest
 
 <!---
